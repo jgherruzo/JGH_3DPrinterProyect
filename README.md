@@ -1,2 +1,3 @@
 # JGH_3DPrinterProyect
-JGH Designs
+
+This repository will content all the files I use for my proyects and all my designs
